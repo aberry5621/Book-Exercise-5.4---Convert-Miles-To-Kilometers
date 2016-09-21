@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E28613311D9225A8004620F4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E28613301D9225A8004620F4 /* main.cpp */; };
+		E28613311D9225A8004620F4 /* convert_m_to_k.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E28613301D9225A8004620F4 /* convert_m_to_k.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		E286132D1D9225A8004620F4 /* Book Exercise 5.4 - Convert Miles To Kilometers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Book Exercise 5.4 - Convert Miles To Kilometers"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E28613301D9225A8004620F4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E28613301D9225A8004620F4 /* convert_m_to_k.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = convert_m_to_k.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		E286132F1D9225A8004620F4 /* Book Exercise 5.4 - Convert Miles To Kilometers */ = {
 			isa = PBXGroup;
 			children = (
-				E28613301D9225A8004620F4 /* main.cpp */,
+				E28613301D9225A8004620F4 /* convert_m_to_k.cpp */,
 			);
 			path = "Book Exercise 5.4 - Convert Miles To Kilometers";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E28613311D9225A8004620F4 /* main.cpp in Sources */,
+				E28613311D9225A8004620F4 /* convert_m_to_k.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
