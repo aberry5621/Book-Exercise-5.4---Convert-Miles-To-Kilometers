@@ -24,12 +24,8 @@ int main() {
             cout << setprecision(4);
         } else {
             cout << setprecision(5);
-
         }
-        cout << showpoint
-        << i * 1.609
-        << endl;
-
+        cout << showpoint << i * 1.609 << endl;
     }
     
     return 0;
